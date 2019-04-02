@@ -106,6 +106,9 @@ header .branding{
     #boxes .box img{
         width: 90x;
     }
+    #graphics{
+        margin-top:50px;
+    }
     footer{
         padding:20px;
         margin-top:20px;

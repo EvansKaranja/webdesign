@@ -19,6 +19,13 @@ body{
     padding: right 20px;
     color: #fff;
 }
+.dark{
+    padding:15px;
+    background: #35424a;
+    color: #fff;
+    margin-left: 10px;
+    margin-bottom: 18px;
+}
 header{
     background: #35424a;
     color:#fff;
@@ -82,37 +89,47 @@ header .branding{
      color:#fff;
     background:#35424a 
     }
-    #newsletter h1{
+#newsletter h1{
         float:left;
     }
-    #newsletter form{
+#newsletter form{
         float:right;
         margin-top:15px;
     }
-    #newsletter input[type='email']{
+#newsletter input[type='email']{
         padding:4px;
         height:25px;
         width:250px;
     }
-    #boxes{
+#boxes{
         margin-top: 20px;
     }
-    #boxes .box{
+#boxes .box{
         float: left;
         width: 30%;
         padding:10px;
         text-align: center;
     }
-    #boxes .box img{
+#boxes .box img{
         width: 90x;
     }
-    #graphics{
+#graphics{
         margin-top:50px;
     }
-    footer{
+aside#sidebar{
+        float:Right;
+        width:30%;
+        margin-top:10px;
+    }
+article#main-col{
+        float: left;
+        width:65%;
+    }
+footer{
         padding:20px;
         margin-top:20px;
         background-color:#e8491d;
         text-align: center;
         color:#fff;
     }
+    

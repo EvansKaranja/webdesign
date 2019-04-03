@@ -130,7 +130,7 @@ article#main-col{
         width:65%;
     }
     /*servixes*/
-    ul#services li{
+ul#services li{
        list-stlye:none;
        padding:20px;
        border:#ccc solid ipx;
